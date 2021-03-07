@@ -29,7 +29,7 @@
         <log4j.version>1.2.17</log4j.version>
         <commmons-lang.version>2.6</commmons-lang.version>
         <commmons-logging.version>1.2</commmons-logging.version>
-        <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <junit.version>4.12</junit.version>
         <springframeword-spring-jdbc.version>4.3.7.RELEASE</springframeword-spring-jdbc.version>
         <hibernate-entitymanager.version>4.3.6.Final</hibernate-entitymanager.version>
